@@ -8,7 +8,7 @@ use warnings;
 use Class::Load ':all'; # For try_load_class() and is_class_loaded().
 
 use File::Spec;  # For catdir.
-use File::Slurp; # For read_dir.
+use File::Slurper; # For read_dir.
 
 use Hash::FieldHash ':all';
 
@@ -19,7 +19,7 @@ fieldhash my %my_id_generators => 'my_id_generators';
 fieldhash my %my_serializers   => 'my_serializers';
 
 our $errstr  = '';
-our $VERSION = '1.17';
+our $VERSION = '1.18';
 
 # -----------------------------------------------
 
