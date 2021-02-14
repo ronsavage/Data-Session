@@ -44,4 +44,4 @@
 ^MYMETA.yml$
 ^MYMETA\.json$
 
-^DBIx-Data-Session-.*
+^Data-Session-.*
