@@ -8,7 +8,7 @@ use warnings;
 use Class::Load ':all'; # For try_load_class() and is_class_loaded().
 
 use File::Spec;  # For catdir.
-use File::Slurper; # For read_dir.
+use File::Slurper 'read_dir';
 
 use Hash::FieldHash ':all';
 
