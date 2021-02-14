@@ -2643,12 +2643,9 @@ L<https://github.com/ronsavage/Data-Session.git>
 
 =head1 Support
 
-Log a bug on RT: L<https://rt.cpan.org/Public/Dist/Display.html?Name=Data-Session>.
+LBugs should be reported via the CPAN bug tracker at
 
-The L<CGI::Application> mailing list often discusses issues relating to L<CGI::Session>,
-and the author of L<Data::Session> monitors that list, so that is another forum available to you.
-
-See L<http://www.erlbaum.net/mailman/listinfo/cgiapp> for details.
+L<https://github.com/ronsavage/Data-Session/issues>
 
 =head1 Thanks
 
