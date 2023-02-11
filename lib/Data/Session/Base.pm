@@ -89,7 +89,7 @@ Print the string to STDERR.
 
 If $s is empty, use '' (the empty string), to avoid a warning message.
 
-Lastly, the string is output preceeded by a '#', so it does not interfere with test output.
+Lastly, the string is output preceded by a '#', so it does not interfere with test output.
 That is, log($s) emulates diag $s.
 
 =head1 Support
