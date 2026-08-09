@@ -132,7 +132,7 @@ sub update
 
 =head1 NAME
 
-L<Data::Session::Driver::Pg> - A persistent session manager
+C<Data::Session::Driver::Pg> - A persistent session manager
 
 =head1 Synopsis
 

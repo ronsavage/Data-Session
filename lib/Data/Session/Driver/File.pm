@@ -211,7 +211,7 @@ sub traverse
 
 =head1 NAME
 
-L<Data::Session::Driver::File> - A persistent session manager
+C<Data::Session::Driver::File> - A persistent session manager
 
 =head1 Synopsis
 

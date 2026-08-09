@@ -39,7 +39,7 @@ sub init
 
 =head1 NAME
 
-L<Data::Session::ID> - A persistent session manager
+C<Data::Session::ID> - A persistent session manager
 
 =head1 Synopsis
 

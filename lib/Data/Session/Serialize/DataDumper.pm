@@ -176,7 +176,7 @@ sub _walk
 
 =head1 NAME
 
-L<Data::Session::Serialize::DataDumper> - A persistent session manager
+C<Data::Session::Serialize::DataDumper> - A persistent session manager
 
 =head1 Synopsis
 

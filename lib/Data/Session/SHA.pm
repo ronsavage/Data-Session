@@ -41,7 +41,7 @@ sub new
 
 =head1 NAME
 
-L<Data::Session::SHA> - A persistent session manager
+C<Data::Session::SHA> - A persistent session manager
 
 =head1 Synopsis
 

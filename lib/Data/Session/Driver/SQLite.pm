@@ -113,7 +113,7 @@ sub update
 
 =head1 NAME
 
-L<Data::Session::Driver::SQLite> - A persistent session manager
+C<Data::Session::Driver::SQLite> - A persistent session manager
 
 =head1 Synopsis
 
