@@ -54,7 +54,7 @@ sub store
 
 =head1 NAME
 
-C<Data::Session::Driver::Oracle> - A persistent session manager
+Data::Session::Driver::Oracle - A persistent session manager
 
 =head1 Synopsis
 

@@ -85,7 +85,7 @@ sub traverse
 
 =head1 NAME
 
-C<Data::Session::Driver::Memcached> - A persistent session manager
+Data::Session::Driver::Memcached - A persistent session manager
 
 =head1 Synopsis
 

@@ -47,7 +47,7 @@ sub thaw
 
 =head1 NAME
 
-C<Data::Session::Serialize::YAML> - A persistent session manager
+Data::Session::Serialize::YAML - A persistent session manager
 
 =head1 Synopsis
 

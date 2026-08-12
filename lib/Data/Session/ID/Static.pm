@@ -52,7 +52,7 @@ sub new
 
 =head1 NAME
 
-C<Data::Session::ID::Static> - A persistent session manager
+Data::Session::ID::Static - A persistent session manager
 
 =head1 Synopsis
 

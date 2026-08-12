@@ -79,7 +79,7 @@ sub new
 
 =head1 NAME
 
-C<Data::Session::ID::AutoIncrement> - A persistent session manager
+Data::Session::ID::AutoIncrement - A persistent session manager
 
 =head1 Synopsis
 

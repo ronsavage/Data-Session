@@ -10,7 +10,7 @@ our $VERSION = '1.18';
 
 =head1 NAME
 
-C<Data::Session> - A persistent session manager
+Data::Session::CGISession - A persistent session manager
 
 =head1 The Design of Data::Session, contrasted with CGI::Session
 

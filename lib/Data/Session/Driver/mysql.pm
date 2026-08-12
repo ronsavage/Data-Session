@@ -68,7 +68,7 @@ sub store
 
 =head1 NAME
 
-C<Data::Session::Driver::mysql> - A persistent session manager
+Data::Session::Driver::mysql - A persistent session manager
 
 =head1 Synopsis
 

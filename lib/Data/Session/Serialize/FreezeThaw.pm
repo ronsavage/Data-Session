@@ -47,7 +47,7 @@ sub thaw
 
 =head1 NAME
 
-C<Data::Session::Serialize::FreezeThaw> - A persistent session manager
+Data::Session::Serialize::FreezeThaw - A persistent session manager
 
 =head1 Synopsis
 

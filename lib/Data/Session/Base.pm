@@ -69,7 +69,7 @@ sub log
 
 =head1 NAME
 
-C<Data::Session::Base> - A persistent session manager
+Data::Session::Base - A persistent session manager
 
 =head1 Synopsis
 

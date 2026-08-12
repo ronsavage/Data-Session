@@ -111,7 +111,7 @@ sub traverse
 
 =head1 NAME
 
-C<Data::Session::Driver::BerkeleyDB> - A persistent session manager
+Data::Session::Driver::BerkeleyDB - A persistent session manager
 
 =head1 Synopsis
 

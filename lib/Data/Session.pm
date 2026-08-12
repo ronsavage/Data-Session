@@ -920,7 +920,7 @@ sub validate_time
 
 =head1 NAME
 
-C<Data::Session> - Persistent session data management
+Data::Session - Persistent session data management
 
 =head1 Synopsis
 
